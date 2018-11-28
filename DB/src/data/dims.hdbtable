@@ -1,0 +1,5 @@
+COLUMN TABLE "HelloCocoCola.DB.data::dims" 
+(
+   "ID" INTEGER, 
+   "TEAM" VARCHAR(50)
+)
